@@ -1,0 +1,4 @@
+12345678-8;Hernan Rosenberg;999999999;Excursiones Lacustres;25;Vicuna Mackena;4398;Puerto Varas
+23456789-1;Hans Franz;888888888;Senderismo y montaña;38;Ejercito;127;Calbuco
+34567891-2;Pablo Calderon;777777777;Rutas Gastronomicas;45;Ortuzar;741;Puerto Montt
+45678912-3;Federico Santamaria;666666696;Excursiones Lacustres;56;Chacabuco;1256;Puerto Varas
